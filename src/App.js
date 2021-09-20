@@ -6,7 +6,7 @@ import HeaderComponent from './pages/header/Header';
 function App() {
   return (
     <div className="App">
-      {/* <HeaderComponent /> */}
+      <HeaderComponent />
       <HomePage />
     </div>
   );
